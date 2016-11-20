@@ -1,0 +1,6 @@
+E:\vs2012\1progs\3dSemestr\DM_3_SORTS\DM_3_SORTS\bin\Debug\DM_3_SORTS.exe.config
+E:\vs2012\1progs\3dSemestr\DM_3_SORTS\DM_3_SORTS\bin\Debug\DM_3_SORTS.exe
+E:\vs2012\1progs\3dSemestr\DM_3_SORTS\DM_3_SORTS\bin\Debug\DM_3_SORTS.pdb
+E:\vs2012\1progs\3dSemestr\DM_3_SORTS\DM_3_SORTS\obj\Debug\DM_3_SORTS.csprojResolveAssemblyReference.cache
+E:\vs2012\1progs\3dSemestr\DM_3_SORTS\DM_3_SORTS\obj\Debug\DM_3_SORTS.exe
+E:\vs2012\1progs\3dSemestr\DM_3_SORTS\DM_3_SORTS\obj\Debug\DM_3_SORTS.pdb
